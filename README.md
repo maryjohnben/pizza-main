@@ -4,4 +4,4 @@ Website on favorite pizza toppings
 - Github: https://github.com/maryjohnben
 - LinkedIn: https://www.linkedin.com/in/mary-benjamin-044a10216 
 # References
-- Jenny Thinkful https://github.com/jennythinkful/
+- Jenny Thinkful: https://github.com/jennythinkful/
